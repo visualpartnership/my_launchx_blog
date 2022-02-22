@@ -1,0 +1,24 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Hugo Winston"
+themesDir = "../.."
+theme = "hugo-winston"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@zerostaticio"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true

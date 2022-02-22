@@ -1,0 +1,52 @@
+:root {
+  --font-family-heading: 'Poppins', sans-serif;
+  --font-family-paragraph: Helvetica, sans-serif;
+  --font-family-mono: monospace;
+  --base-color: #ffffff;
+  --base-offset-color: #eaeaea;
+  --highlight-color: #007fda;
+  --heading-color: #1c1b1d;
+  --text-color: #4e5157;
+}
+
+$breakpoints: (
+  'small': 767px,
+  'medium': 992px,
+  'large': 1200px,
+);
+
+@import 'normalize';
+@import 'breakpoints';
+@import 'header';
+@import 'footer';
+@import 'content';
+@import 'intro';
+@import 'summary';
+@import 'author';
+@import 'pagination';
+@import 'pygments/github';
+
+html, body {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--base-color);
+  font-family: var(--font-family-paragraph);
+  color: var(--text-color);
+  margin: 0;
+  padding: 30px;
+  overflow-x: hidden;
+  @include breakpoint('small') {
+    padding: 50px;
+  }
+  &.frame {
+    min-height: 100vh;
+    border: 18px solid var(--highlight-color);
+  }
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
