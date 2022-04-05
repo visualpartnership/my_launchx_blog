@@ -4,8 +4,10 @@ date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
--Hello there!<br>
--General Explorer! <br>
+-Hello there!
+
+-General Explorer!
+
 ![avatar](https://us.v-cdn.net/6025735/uploads/editor/y6/1uwr9ko8tfc3.gif)
 
 A mi forma de ver, la cultura de un desarrollador se basa en:
