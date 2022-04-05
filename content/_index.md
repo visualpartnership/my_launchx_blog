@@ -9,10 +9,13 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Lo que quisiera aprender dentro del curso de BackEnd es:
 
-  >-Aprender sobre el procesamiento de datos
-  >-Saber imprementar los nuevos conocimientos con lo ya aprendido en FrontEnd
-  >-Tener un mejor conociemiento sobre Github
-  >-Ser un mensaje de esperanza para Gótica
+  > * Aprender sobre el procesamiento de datos
+  >
+  > * Saber imprementar los nuevos conocimientos con lo ya aprendido en FrontEnd
+  >
+  > * Tener un mejor conociemiento sobre Github
+  >
+  > * Ser un mensaje de esperanza para Gótica
   
 
 🚀
