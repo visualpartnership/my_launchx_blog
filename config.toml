@@ -1,6 +1,6 @@
 baseURL = "https://mike-std-cpu.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje by Mike Andrade"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
