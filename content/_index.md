@@ -15,7 +15,7 @@ Lo que quisiera aprender dentro del curso de BackEnd es:
   >
   > * Tener un mejor conociemiento sobre Github
   >
-  > * Ser un mensaje de esperanza para Gótica
+  > * <del>Ser un mensaje de esperanza para Gótica</del>
   
 
 🚀
