@@ -15,4 +15,4 @@ Para mi la cultura de un dasarrollador esta basado en disntiso tipos de componen
  - Pasion.
  - Valor.
  - Honestidad.
-Para mi estos son los mas mipotnates para poder llegar a las metas que tengas en esta area.
+<p> Para mi estos son los mas mipotnates para poder llegar a las metas que tengas en esta area.</p>
