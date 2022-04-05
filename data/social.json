@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "instagram",
+      "url": "https://www.instagram.com/lukitachan/",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/lukitachan",
       "image": "images/social/github.svg"
     }
   ]
