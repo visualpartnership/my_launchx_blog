@@ -19,3 +19,9 @@ paginate = 3
   showPostsOnHomepage = false
   addFrame = true
   addDot = true
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
