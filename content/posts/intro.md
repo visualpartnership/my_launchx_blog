@@ -16,4 +16,4 @@ A mi forma de ver, la cultura de un desarrollador se basa en:
 
 2.- Comunicación: Un desarrollador no suele trabajar solo, sino dentro de un equipo donde cada uno forma un engrane. Es importante comunicarse con los demás miembros para que el proyecto pueda elaborarse de la forma mas eficiente posible.
 
-3.-
+3.-<del>Checando si el html funciona ahora</del>
