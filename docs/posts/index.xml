@@ -8,13 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mike-std-cpu.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Launch fomentando el aprendizaje de desarrolladores</title>
+      <link>https://mike-std-cpu.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mike-std-cpu.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>A lo largo de ete cmino he aprendido un sin fin de conceptos que han complementado para bien en mi experiencia en este mundo de la tecnologia y la innovación.
+¿Que he aprendido aqui en Launch-X?  Python El uso de documentacion de codigo con Jupyter de Python. Git y GitHub. Linea de comando en windows HTML. UI &amp;amp; UX. CSS. JavaScript. Frameworks JS.   🪄 Thanks for watching @Mike Andrade</description>
+    </item>
+    
+    <item>
       <title>Cultura de un Desarrolador@ de Software</title>
       <link>https://mike-std-cpu.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://mike-std-cpu.github.io/my_launchx_blog/posts/intro/</guid>
       <description>¡Hola! ¿Que tal? Para mi la cultura de un dasarrollador esta basado en disntiso tipos de componentes que pueden llegar hacer esenciales:
-Valores &amp;amp; sentimientos.  Compromiso. Responsabilidad. Confianza. Dedicacion. Pasion. Valor. Honestidad. Para mi estos son los mas mipotnates para poder llegar a las metas que tengas en esta area.  </description>
+Valores &amp;amp; sentimientos.  Compromiso. Responsabilidad. Confianza. Dedicacion. Pasion. Valor. Honestidad.  </description>
     </item>
     
   </channel>
