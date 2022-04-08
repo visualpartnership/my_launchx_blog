@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
-    <link>./posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <title>Blog on Bitácora de Viaje Karla Soria</title>
+    <link>https://karlasoria97.github.io/my_launchx_blog/posts/</link>
+    <description>Recent content in Blog on Bitácora de Viaje Karla Soria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karlasoria97.github.io/my_launchx_blog//posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karlasoria97.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>./posts/intro/</link>
+      <title>La cultura del desarrollo de Software</title>
+      <link>https://karlasoria97.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>./posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://karlasoria97.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Para mi la cultura de desarrollo es tener valores en tu desarrollo tales como:
+-Honestidad -Paciencia -Respeto -Ingenio -y por sobre todo poner todos tu corazón, creatividad y tu empeño en cada uno de tus desarrollos</description>
     </item>
     
   </channel>
