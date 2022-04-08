@@ -17,5 +17,14 @@
 -Busco la manera de aprender nuevas cosas -Me gusta la practica, asi es como se puede aprender mas facil -Aprendiendo el mundo de la programación</description>
     </item>
     
+    <item>
+      <title>Mi primer post GerardoL23</title>
+      <link>https://gerardol23.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardol23.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Este es le primer contenido de un post.</description>
+    </item>
+    
   </channel>
 </rss>
