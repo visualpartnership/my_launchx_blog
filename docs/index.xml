@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje de Karla Soria on Bitácora de Viaje Karla Soria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://karlasoria97.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://karlasoria97.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://karlasoria97.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://karlasoria97.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
     <item>
       <title>La cultura del desarrollo de Software</title>
       <link>https://karlasoria97.github.io/my_launchx_blog/posts/intro/</link>
