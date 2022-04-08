@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
+    <link>https://gerardol23.github.io/my_launchx_blog/posts/</link>
     <description>Recent content in Blog on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardol23.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <link>https://gerardol23.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://gerardol23.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Usa este post para anotar tus expectativas de la misión. Hola
+-Busco la manera de aprender nuevas cosas -Me gusta la practica, asi es como se puede aprender mas facil -Aprendiendo el mundo de la programación</description>
+    </item>
+    
+    <item>
+      <title>Mi primer post GerardoL23</title>
+      <link>https://gerardol23.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardol23.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Este es le primer contenido de un post.</description>
     </item>
     
   </channel>
