@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://angelicaroy.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 14:07:51 -0600</lastBuildDate><atom:link href="https://angelicaroy.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis expectativas</title>
+      <link>https://angelicaroy.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Sun, 10 Apr 2022 14:07:51 -0600</pubDate>
+      
+      <guid>https://angelicaroy.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Usa este post para anotar tus expectativas de la misión.
+ Aprender otras herramientas para el desarrollo de software. Crear un portafolio. Saber mas acerca de lo que se puede hacer en github. Aprender buenas practicas para el desarrollo back-end.  </description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en Launch X</title>
       <link>https://angelicaroy.github.io/my_launchx_blog/posts/post_1/</link>
@@ -24,8 +34,7 @@
       
       <guid>https://angelicaroy.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+Mi nombre es Angelica Ariadna Espinosa Roy. Soy egresada de la carrera en Ingeniería en Informática, me gustan los temas relacionados con IA y DataScience. Actualmente me encuentro estudiando una maestría en Sistemas Computacionales. Además me gusta mucho practicar el dibujo tradicional.</description>
     </item>
     
   </channel>
