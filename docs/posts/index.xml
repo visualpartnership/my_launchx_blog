@@ -7,5 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://angelicaroy.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://angelicaroy.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelicaroy.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! voy a contante lo que he aprendido en este camino:
+ Python Html Css JS git y github UX/UI Herramientas para diseño web  </description>
+    </item>
+    
   </channel>
 </rss>
