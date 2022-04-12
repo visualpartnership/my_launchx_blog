@@ -1,11 +1,26 @@
 ---
-title: "Mis expectativas"
-date: 2022-04-10T14:07:51-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+title: 'La Cultura de un desarrollad@r de Software'
+date: 2019-04-10
+description: '¡Hola! este es mi primer post de la travesía en la Misión Backend con NodeJS'
 ---
+# Para un desarrollador en Backend en NodeJS 
 
-Usa este post para anotar tus expectativas de la misión.
-- Aprender otras herramientas para el desarrollo de software.
-- Crear un portafolio.
-- Saber mas acerca de lo que se puede hacer en github.
-- Aprender buenas practicas para el desarrollo back-end.
+## Valores:
+- Empatía
+- Optimismo
+- Humildad
+- Gratitud
+- Perseverancia
+- Responsabilidad
+
+## Emociones:
+- Alegría
+- Miedo
+- Asombro
+- Interés
+- Seguridad
+
+## Sentimientos:
+- Interés
+- Inspiración
+- Gratitud
