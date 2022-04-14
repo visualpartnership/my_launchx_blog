@@ -40,4 +40,4 @@ En mi tiempo libre:
 > en la pared deben de saber que las personas encadenadas no podrán moverse hasta que se haya 
 > acabado el tiempo.
 
-[Imagen](https://github.com/Ma-Daniela30/my_launchx_blog/blob/master/static/images/img_xo.png)
+![Imagen](https://github.com/Ma-Daniela30/my_launchx_blog/blob/master/static/images/img_xo.png)
