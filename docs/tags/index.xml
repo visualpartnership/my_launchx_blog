@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bitácora de Viaje de Maria Daniela Espinosa Roy</title>
-    <link>https://example.com/tags/</link>
+    <link>https://ma-daniela30.github.io/my_launchx_blog/tags/</link>
     <description>Recent content in Tags on Bitácora de Viaje de Maria Daniela Espinosa Roy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ma-daniela30.github.io/my_launchx_blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
