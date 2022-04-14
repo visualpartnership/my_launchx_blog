@@ -39,5 +39,6 @@ En mi tiempo libre:
 > cruz, la puerta se abrirá si 2 personas han sido anteriormente encadenadas a las cadenas situadas 
 > en la pared deben de saber que las personas encadenadas no podrán moverse hasta que se haya 
 > acabado el tiempo.
+>  ~ ** Anime: ** Hunter x Hunter~
 
 ![Imagen](https://raw.githubusercontent.com/Ma-Daniela30/my_launchx_blog/master/static/images/img_xo.png)
