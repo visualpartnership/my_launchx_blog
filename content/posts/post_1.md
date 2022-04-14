@@ -21,7 +21,9 @@ Hola! Quiero contarte todo lo que he aprendido en este camino.
 - Css
 - JavaScript (JS)
 
-# BackEnd PROXIMANENTE
+# PROXIMANENTE
+
+## BackEnd
 
 - Node JS
 
