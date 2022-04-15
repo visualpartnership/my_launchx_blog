@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <title>Launch X Bitácora de viaje on Bitácora de Viaje de Jorge Garcia</title>
+    <link>https://jorgegarcia9006.github.io/my_launchx_blog/</link>
+    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Jorge Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgegarcia9006.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <title>yo y LaunchX</title>
+      <link>https://jorgegarcia9006.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgegarcia9006.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Desde el inicio de la mision en LaunchX, he podido ver las bases de lo que es la programacion en Frontend y backend, el inicio al ver pyton fue algo bastante nuevo y entretnido, lo que fue html y css tambien lo fue.</description>
+    </item>
+    
+    <item>
+      <title>Cultura de un profesional de software</title>
+      <link>https://jorgegarcia9006.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://jorgegarcia9006.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Mi opinion sobre lo que un profecional en desarrollo de software serian los siguientes: -Responsable: Mantenerse pendiente de cumplir sus tareas y solicitar apoyo de ser requerido -Honesto: Mantener una comunicacion clara sobre los temas del trabajo con veracidad -Puntual: Tanto con su presencia en el lugar del trabajo como en sus responsabilidades -Cordial: Comunicandoce en lo mejor posible con compañeros y clientes</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>https://jorgegarcia9006.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
+      <guid>https://jorgegarcia9006.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
