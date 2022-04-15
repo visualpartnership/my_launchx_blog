@@ -1,6 +1,6 @@
 baseURL = "https://angelicaroy.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de viaje de Angelica Roy."
+title = "Bitácora de Viaje de Angelica Roy."
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
