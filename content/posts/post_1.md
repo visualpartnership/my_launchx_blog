@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "yo y LaunchX"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Que he visto en las misiones'
 ---
 
 Desde el inicio de la mision en LaunchX, he podido ver las bases de lo que es la programacion en Frontend y backend,
