@@ -1,5 +1,5 @@
 ---
-title: 'La Cultura de un desarrollad@r de Software'
+title: 'La Cultura de un desarrollador de Software'
 date: 2022-04-11
 description: '¡Hola! este es mi primer post de la travesía en la Misión Backend con NodeJS'
 ---
