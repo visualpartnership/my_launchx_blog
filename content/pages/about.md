@@ -1,21 +1,20 @@
 ---
-title: 'About me'
+title: 'Acerca de mí'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+----------
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+# Quien soy !!!
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Hola visitante mi nombre es **Gerardo Juárez Salmorán** soy del estado de **Oaxaca** me gusta mucho aprender cosas nuevas.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+estudie en el **Instituto Tecnologico Superior de Teposcolula** la carrera de **Ingenieria en Sistemas Computacionales** pero lo que mas nos enseñaron fue el desarrollo de aplicaciones de escritorio con **Java Swing** y un poco de lo que es **C# .NET**.
+
+Me inscribi a este curso de **LaunchX Innovacion Virtual** por que quiero aprender mas sobre las tecnologias web que se usan actualmente en el mercado para poder desarrollar aplicaciones mas modernas.
+
+----------
+
 
