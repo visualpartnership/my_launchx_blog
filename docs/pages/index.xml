@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Bitácora de Viaje</title>
-    <link>https://example.com/pages/</link>
-    <description>Recent content in Pages on Bitácora de Viaje</description>
+    <title>Pages on Bitácora de Viaje de Gerardo Juarez Salmoran</title>
+    <link>https://gerardojuarezs.github.io/my_launchx_blog/pages/</link>
+    <description>Recent content in Pages on Bitácora de Viaje de Gerardo Juarez Salmoran</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gerardojuarezs.github.io/my_launchx_blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <title>Acerca de mí</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
-      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/pages/about/</guid>
+      <description>Quien soy !!! Hola visitante mi nombre es Gerardo Juárez Salmorán soy del estado de Oaxaca me gusta mucho aprender cosas nuevas.
+estudie en el Instituto Tecnologico Superior de Teposcolula la carrera de Ingenieria en Sistemas Computacionales pero lo que mas nos enseñaron fue el desarrollo de aplicaciones de escritorio con Java Swing y un poco de lo que es C# .NET.
+Me inscribi a este curso de LaunchX Innovacion Virtual por que quiero aprender mas sobre las tecnologias web que se usan actualmente en el mercado para poder desarrollar aplicaciones mas modernas.</description>
     </item>
     
   </channel>

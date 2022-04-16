@@ -1,30 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <title>Launch X Bitácora de viaje on Bitácora de Viaje de Gerardo Juarez Salmoran</title>
+    <link>https://gerardojuarezs.github.io/my_launchx_blog/</link>
+    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gerardo Juarez Salmoran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://gerardojuarezs.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <title>La cultura en el desarrollo de software.</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Fri, 15 Apr 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>La cultura en el desarrollo del software Una cultura saludable alinea a los desarrolladores en torno a un objetivo común: crear código de alta calidad, mejorar continuamente y disfrutar del proceso. La cultura no sólo es clave para la alineación y la eficacia del trabajo, sino para reclutar y retener talento de alto nivel.
+La creación de una buena cultura para los equipos de desarrollo de software puede lograrse mediante:</description>
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <title>Onboarding</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 1</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 2</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 3</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_5/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 4</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_4/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 5</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_6/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semana 6</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_7/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/posts/post_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acerca de mí</title>
+      <link>https://gerardojuarezs.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
-      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+      <guid>https://gerardojuarezs.github.io/my_launchx_blog/pages/about/</guid>
+      <description>Quien soy !!! Hola visitante mi nombre es Gerardo Juárez Salmorán soy del estado de Oaxaca me gusta mucho aprender cosas nuevas.
+estudie en el Instituto Tecnologico Superior de Teposcolula la carrera de Ingenieria en Sistemas Computacionales pero lo que mas nos enseñaron fue el desarrollo de aplicaciones de escritorio con Java Swing y un poco de lo que es C# .NET.
+Me inscribi a este curso de LaunchX Innovacion Virtual por que quiero aprender mas sobre las tecnologias web que se usan actualmente en el mercado para poder desarrollar aplicaciones mas modernas.</description>
     </item>
     
   </channel>
