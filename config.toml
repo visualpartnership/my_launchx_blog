@@ -16,6 +16,6 @@ paginate = 3
   twitter_handle = "@JuarezSalmoran"
   showAuthorOnHomepage = true
   showAuthorOnPosts = true
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
   addFrame = true
   addDot = true
