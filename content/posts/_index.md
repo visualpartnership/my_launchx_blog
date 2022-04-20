@@ -1,16 +1,7 @@
 ---
-title: 'La Cultura de un desarrollador de software'
-date: 2022-04-20
+title: 'Blog'
+date: 2019-02-24
 menu:
-  main: name: "Este es mi primer post"
+  main:
+    name: "Posts"
 ---
-Hola! 😊
-
-Para mi la cultura de un profecional del desarrollo de software se basa en lo siguiente:
-
-- Respeto
-- Confianza
-- Honestidad
-- Dedicación
-
-Esto es muy importante para mi.
