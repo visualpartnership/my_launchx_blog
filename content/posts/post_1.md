@@ -12,7 +12,7 @@ Quiero comartir con ustedes todo lo que e aprendido hasta hoy en Lauch-X
 - CSS
 - JavaScript
 - Vue
-- Reac (solo lo basico)
+- Angular (solo lo basico)
 # Back-end
 - Git
 - GitHub
