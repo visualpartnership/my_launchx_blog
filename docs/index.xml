@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de José Escobar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://J0SE-ESC0BAR.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://J0SE-ESC0BAR.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi aprendisaje en Launch X</title>
+      <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Quiero comartir con ustedes todo lo que e aprendido hasta hoy en Lauch-X
+Introducción  Python Logica de Programacion  Fron-end  HTML CSS JavaScript Vue Reac (solo lo basico)  Back-end  Git GitHub GitHub Pages Hugo Markdown (basico)  </description>
+    </item>
+    
     <item>
       <title>La Cultura de un desarrollador de Software</title>
       <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/intro/</link>

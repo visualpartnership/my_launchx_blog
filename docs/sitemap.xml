@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/intro/</loc>
-    <lastmod>2022-02-21T18:16:21-06:00</lastmod>
-  </url><url>
     <loc>https://J0SE-ESC0BAR.github.io/my_launchx_blog/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_1/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/intro/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
     <loc>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/</loc>
