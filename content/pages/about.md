@@ -9,7 +9,7 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
+> Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico
 > adfusique imis amplexus. Agmina per fabricator
 > mittere Erymanthon habetque tot.
 
