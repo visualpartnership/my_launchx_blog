@@ -1,21 +1,15 @@
 ---
-title: 'About me'
+title: 'Acerca de mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Un poco acerca de mi"
 ---
 
-## Who am I
+## Quien soy yo
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Mis actividades favoritas son:** programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi ultimo trabajo fue como desarrollador movil para Android en Alter Brain Solutions, ademas he realizado proyectos escolares por mi cuenta en diversos Frameworks, entre los que destacan Flask, Node.js, Vue.js.   
 
