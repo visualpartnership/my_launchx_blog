@@ -2,20 +2,20 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About"
 ---
 
 ## Who am I
+Information about me.
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+> I am José Alfonso Escobar, I was born in Morelia, Michoacán, when I was a child I came with my family to El Salvador, I am studying systems engineering at the university.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+I really like programming and I want to learn more about web development.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Social Networks:**
+- `Twitter` : https://twitter.com/J0SE_ESC0BAR
+- `LinkedIn` : https://www.linkedin.com/in/jos%C3%A9-alfonso-escobar-mej%C3%ADa-15133620b/
+- `Facebook`:  https://www.facebook.com/JoseAlonsoEscobarMejia
+- ✉ `Email`:  <a href="mailto:josealfonsoescobarmejia@gmail.com">josealfonsoescobarmejia@gmail.com</a>
+
 
