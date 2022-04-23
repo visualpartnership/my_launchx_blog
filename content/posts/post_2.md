@@ -3,19 +3,8 @@ title: "Git Hub"
 date: 2022-04-22
 description: 'Quiero versión extendida de git y github'
 ---
-Quiero comartir con ustedes todo lo que e aprendido hasta hoy en Lauch-X
-# Introducción
-- Python
-- Logica de Programacion
-# Fron-end
-- HTML
-- CSS
-- JavaScript
-- Vue
-- Angular (solo lo basico)
-# Back-end
-- Git
-- GitHub
-- GitHub Pages
-- Hugo
-- Markdown (basico)
+Porque quiero aprender mas sobre git
+# Para programar mejor
+Al tener un sistema de verciones, me ayudara para llevar un control y control de los programas.
+# Que espero aprender
+Quiero aprender mas sobre las breach, los pull request y como se trabaja en equipo con git y github.
