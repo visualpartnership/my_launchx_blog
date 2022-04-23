@@ -1,5 +1,5 @@
 baseURL = "https://J0SE-ESC0BAR.github.io/my_launchx_blog/"
-languageCode = "es"
+languageCode = 'es'
 title = "Bitácora de Viaje de José Escobar"
 theme = "hugo-winston-theme"
 relativeURLs = true
