@@ -9,7 +9,7 @@ Usa este post para anotar tus expectativas de la misión.
 Para mi los valores mas importantes para un desarrollador de software son los siguientes:
 
 ## -Respeto
-## -COnfianza
+## -Confianza
 ## -Comunicacion
 ## -Honestidad
 
