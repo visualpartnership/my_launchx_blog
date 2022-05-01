@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://github.com/JS2202/my_launchx_blog/</link>
+    <link>https://js2202.github.io/my_launchx_blog/</link>
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/JS2202/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://js2202.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Usando Git en la terminal de VSCode en Linux</title>
-      <link>https://github.com/JS2202/my_launchx_blog/posts/post2/</link>
+      <link>https://js2202.github.io/my_launchx_blog/posts/post2/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/JS2202/my_launchx_blog/posts/post2/</guid>
+      <guid>https://js2202.github.io/my_launchx_blog/posts/post2/</guid>
       <description>Despues de haber leido las referencias de el Onboarding y revisar el libro de Mastering Git, he logrado manejar los pull/request desde la terminal de VSCode de manera sencilla, solo con el uso de los comandos git add ., git commit -m &amp;ldquo;mensaje&amp;rdquo; y git push, el libro me parece bastante sencillo, y los ejemplos de uso de los comandos son bastante sencillos y explicativos.</description>
     </item>
     
     <item>
       <title>Mis expectativas</title>
-      <link>https://github.com/JS2202/my_launchx_blog/posts/intro/</link>
+      <link>https://js2202.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://github.com/JS2202/my_launchx_blog/posts/intro/</guid>
+      <guid>https://js2202.github.io/my_launchx_blog/posts/intro/</guid>
       <description>Espero poder aprender las bases de el uso de Git, el uso de los forks, aprender a usar los comandos de Git desde la terminal de Linux, aprender los conceptos basicos de GoHugo.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://github.com/JS2202/my_launchx_blog/pages/about/</link>
+      <link>https://js2202.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/JS2202/my_launchx_blog/pages/about/</guid>
+      <guid>https://js2202.github.io/my_launchx_blog/pages/about/</guid>
       <description>Quien soy yo Hola, aquí vas a leer un poco sobre mi 🤩
  Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico.
  Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi ultimo trabajo fue como desarrollador movil para Android en Alter Brain Solutions, ademas he realizado proyectos escolares por mi cuenta en diversos Frameworks, entre los que destacan Flask, Node.</description>
