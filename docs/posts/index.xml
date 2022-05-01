@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <title>Blog on Bitácora de Viaje de Ignacio Rodriguez</title>
+    <link>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/</link>
+    <description>Recent content in Blog on Bitácora de Viaje de Ignacio Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciorodriguez98.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <title>Travesia por LaunchX</title>
+      <link>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola viajero!
+Te voy a contar un poco, y a grande rasgos, los temas que he visto a lo largo de esta travesia
+Propedeutico En el propedeutico vi Python, el cual es un lenguaje en el cual me siento muy comodo, porque fue el que me introdujo a la programacion!!! Me ayudo para reforzar y saber nuevas tecnicas, como la creacion de entornos virtuales.
+Mision FrontEnd En este apartado vimos los siguientes lenguajes:</description>
+    </item>
+    
+    <item>
+      <title>La cultura de un desarrollador de software</title>
+      <link>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Usa este post para anotar tus expectativas de la misión.
+Para mi los valores mas importantes para un desarrollador de software son los siguientes:
+-Respeto -Confianza -Comunicacion -Honestidad </description>
     </item>
     
   </channel>

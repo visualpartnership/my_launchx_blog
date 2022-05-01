@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Bitácora de Viaje</title>
-    <link>https://example.com/pages/</link>
-    <description>Recent content in Pages on Bitácora de Viaje</description>
+    <title>Pages on Bitácora de Viaje de Ignacio Rodriguez</title>
+    <link>https://ignaciorodriguez98.github.io/my_launchx_blog/pages/</link>
+    <description>Recent content in Pages on Bitácora de Viaje de Ignacio Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ignaciorodriguez98.github.io/my_launchx_blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>https://ignaciorodriguez98.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
+      <guid>https://ignaciorodriguez98.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+ Mi nombre es Jesus Ignacio Rodriguez SIbaja Naci el 1ero de Noviembre de 1998, es decir, tengo 23 años Soy de Oaxaca, Mexico Soy ingeniero en Mecatronica, egresado de la Universidad Tecnologica de Puebla Estoy cursando una maestria en ingenieria en computacion en la Universdidad Autonoma de Chihuahua
+ A inicio de pandemia no sabia nada de programacion y ahora ando prediciendo juegos de la NBA con una efectividad del 68%!</description>
     </item>
     
   </channel>
