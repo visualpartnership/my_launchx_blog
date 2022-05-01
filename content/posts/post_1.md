@@ -1,5 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Travesia por LaunchX"
 date: 2022-03-01
 description: 'Travesia por LaunchX'
 ---
