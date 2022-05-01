@@ -9,6 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este curso son: 
 
+-Aprender Git y Github
 -Aprender Backend
 -Compartir
 -Aplicar mis conocmientos de Frontend
