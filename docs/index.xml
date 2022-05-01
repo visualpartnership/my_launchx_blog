@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Ignacio Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://ignaciorodriguez98.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciorodriguez98.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola viajero!
+Te voy a contar un poco, y a grande rasgos, los temas que he visto a lo largo de esta travesia
+Propedeutico En el propedeutico vi Python, el cual es un lenguaje en el cual me siento muy comodo, porque fue el que me introdujo a la programacion!!! Me ayudo para reforzar y saber nuevas tecnicas, como la creacion de entornos virtuales.
+Mision FrontEnd En este apartado vimos los siguientes lenguajes:</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://ignaciorodriguez98.github.io/my_launchx_blog/posts/intro/</link>
