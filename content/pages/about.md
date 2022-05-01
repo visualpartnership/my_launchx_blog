@@ -9,7 +9,7 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Mi nombre es JesUS Ignacio Rodriguez SIbaja
+> Mi nombre es Jesus Ignacio Rodriguez SIbaja
 > Naci el 1ero de Noviembre de 1998, es decir, tengo 23 años
 > Soy de Oaxaca, Mexico
 > Soy ingeniero en Mecatronica, egresado de la Universidad Tecnologica de Puebla
