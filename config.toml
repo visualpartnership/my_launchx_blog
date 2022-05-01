@@ -1,4 +1,4 @@
-baseURL = "https://github.com/JS2202/my_launchx_blog/"
+baseURL = "https://js2202.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
