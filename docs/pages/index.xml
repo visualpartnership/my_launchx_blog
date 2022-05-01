@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Bitácora de Viaje</title>
-    <link>https://example.com/pages/</link>
+    <link>http://carlogilmar.xyz/my_launchx_blog/pages/</link>
     <description>Recent content in Pages on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://carlogilmar.xyz/my_launchx_blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>http://carlogilmar.xyz/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
+      <guid>http://carlogilmar.xyz/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>

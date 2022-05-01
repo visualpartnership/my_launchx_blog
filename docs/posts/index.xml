@@ -2,17 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
+    <link>http://carlogilmar.xyz/my_launchx_blog/posts/</link>
     <description>Recent content in Blog on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://carlogilmar.xyz/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_3/</guid>
+      <description>Quiero ver esto en mi blog Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
+      <title>Blog Post 2</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_2/</guid>
+      <description>Este es el nuevo post que quiero ver Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
+      <title>Título de tu blog post</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/intro/</guid>
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     

@@ -2,21 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/posts/post_3/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/posts/post_2/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/posts/post_1/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/posts/intro/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/intro/</loc>
-    <lastmod>2022-02-21T18:16:21-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pages/about/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/pages/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/categories/</loc>
   </url><url>
-    <loc>https://example.com/pages/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/pages/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://carlogilmar.xyz/my_launchx_blog/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://carlogilmar.xyz/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@carlogilmar"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false

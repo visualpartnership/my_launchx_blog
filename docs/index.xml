@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://example.com/</link>
+    <link>http://carlogilmar.xyz/my_launchx_blog/</link>
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://carlogilmar.xyz/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_3/</guid>
+      <description>Quiero ver esto en mi blog Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
+      <title>Blog Post 2</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_2/</guid>
+      <description>Este es el nuevo post que quiero ver Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido. Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
+      <title>Título de tu blog post</title>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <link>http://carlogilmar.xyz/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
+      <guid>http://carlogilmar.xyz/my_launchx_blog/posts/intro/</guid>
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>http://carlogilmar.xyz/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
+      <guid>http://carlogilmar.xyz/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
