@@ -9,13 +9,12 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es JesUS Ignacio Rodriguez SIbaja
+> Naci el 1ero de Noviembre de 1998, es decir, tengo 23 años
+> Soy de Oaxaca, Mexico
+> Soy ingeniero en Mecatronica, egresado de la Universidad Tecnologica de Puebla
+> Estoy cursando una maestria en ingenieria en computacion en la Universdidad Autonoma de Chihuahua
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+A inicio de pandemia no sabia nada de programacion y ahora ando prediciendo juegos de la NBA con una efectividad del 68%!
+
 
