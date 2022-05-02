@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
+    <title>Pagina principal on Bitácora de Viaje</title>
     <link>https://js2202.github.io/my_launchx_blog/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <description>Recent content in Pagina principal on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://js2202.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
@@ -31,17 +31,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://js2202.github.io/my_launchx_blog/pages/about/</guid>
-      <description>Quien soy yo Hola, aquí vas a leer un poco sobre mi 🤩
- Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico.
- Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi ultimo trabajo fue como desarrollador movil para Android en Alter Brain Solutions, ademas he realizado proyectos escolares por mi cuenta en diversos Frameworks, entre los que destacan Flask, Node.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://js2202.github.io/my_launchx_blog/portafolio/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://js2202.github.io/my_launchx_blog/portafolio/about/</guid>
       <description>Quien soy yo Hola, aquí vas a leer un poco sobre mi 🤩
  Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico.
  Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi ultimo trabajo fue como desarrollador movil para Android en Alter Brain Solutions, ademas he realizado proyectos escolares por mi cuenta en diversos Frameworks, entre los que destacan Flask, Node.</description>
