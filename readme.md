@@ -12,3 +12,5 @@ Así como también puedes crear tu **Workbook**:
 
 ![Ilustración_sin_título 1](https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png)
 ![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/165124419-d36542e5-65ad-47ba-ad56-5180990433d6.png)
+
+[ExplorersAPI.json.zip](https://github.com/carlogilmar/my_launchx_blog/files/8600585/ExplorersAPI.json.zip)
