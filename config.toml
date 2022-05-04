@@ -1,7 +1,7 @@
 baseURL = "https://js2202.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Mi Blog"
-theme = "hugo-winston-theme"
+theme = "academia-hugo"
 relativeURLs = true
 canonifyURLs = true
 
