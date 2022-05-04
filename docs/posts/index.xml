@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
+    <title>Blog on Mi Blog</title>
     <link>https://js2202.github.io/my_launchx_blog/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <description>Recent content in Blog on Mi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://js2202.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
