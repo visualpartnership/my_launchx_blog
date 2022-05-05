@@ -35,6 +35,6 @@ Hecho como parte de los cursos para frontend de LaunchX, utiliza un pequenio Scr
 
 [Pagina de pasteleria](https://625a323f37f5c331b8882412--sprightly-narwhal-61b6a2.netlify.app/#/)
 ---
-Pagina realizada como parte de LaunchX,desarrollada con Vue.js, VueX y JavaScript.
+Una single page application sencilla realizada como parte de LaunchX,desarrollada con Vue.js, VueX y JavaScript.
 [Link al repositorio](https://github.com/JS2202/MadereriaPV)
 ---
