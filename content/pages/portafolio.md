@@ -16,7 +16,7 @@ menu:
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="https://imagenes.elpais.com/resizer/bcO7qftyHcYnGWasUbyB0fMj_WY=/1960x1103/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/GXCNXMSQBJE5LCIC3ITWRGE75A.jpg"/>
+![imagen](https://imagenes.elpais.com/resizer/bcO7qftyHcYnGWasUbyB0fMj_WY=/1960x1103/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/GXCNXMSQBJE5LCIC3ITWRGE75A.jpg)
 
 ---
 
