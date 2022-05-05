@@ -13,7 +13,7 @@ App para Android desarrollada para Alter Brain Solutions, es una herramienta par
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
 
-Proyectos personales y como parte de cursos
+### Proyectos personales y como parte de cursos
 
 [Madereria](https://github.com/JS2202/MadereriaPV)
 ---
