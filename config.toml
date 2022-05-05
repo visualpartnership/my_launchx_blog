@@ -1,0 +1,21 @@
+baseURL = "https://js2202.github.io/my_launchx_blog/"
+languageCode = "en-us"
+title = "Mi Blog"
+theme = "hugo-theme-m10c"
+relativeURLs = true
+canonifyURLs = true
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[params]
+  google_analytics_id = ""
+  # Hey Explorer aquí pon tu twitter 👇
+  twitter_handle = "@visual_partner"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true
