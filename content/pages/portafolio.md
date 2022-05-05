@@ -16,7 +16,7 @@ App para Android desarrollada para Alter Brain Solutions, es una herramienta par
 ---
 ### Proyectos personales, como parte de cursos y escolares
 ---
-[Madereria](https://github.com/JS2202/MadereriaPV)
+[Madereria POS](https://github.com/JS2202/MadereriaPV)
 ---
 Punto de venta para una madereria desarrollado usando Python, Flask, Jinja y Firestore como base de datos, parte de un proyecto para la Universidad.
 ---
