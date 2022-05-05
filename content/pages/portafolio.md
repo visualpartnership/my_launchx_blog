@@ -12,7 +12,7 @@ menu:
 Herramienta para la gestion de fraccionamientos desarrollada en Android para Alter Brain Solutions.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
-### Proyectos personales
+### Proyectos personales y como parte de cursos
 
 [Madereria](https://github.com/JS2202/MadereriaPV)
 ---
