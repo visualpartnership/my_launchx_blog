@@ -5,10 +5,9 @@ menu:
     name: "Portafolio"
 ---
 
-### MisVecinos
+### [MisVecinosApp](https://appmisvecinos.com/)
 App desarrollada en Android para la gestion de fraccionamientos.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
-[MisVecinosApp](https://appmisvecinos.com/)
 ---
 
 ### Category Name 2
