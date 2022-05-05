@@ -9,7 +9,7 @@
                         <ul class="sub-menu">
                             {{ range .Children }}
                                 <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                                    <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                                    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                                 </li>
                             {{ end }}
                         </ul>
