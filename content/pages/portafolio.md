@@ -12,14 +12,22 @@ menu:
 Herramienta para la gestion de fraccionamientos desarrollada en Android para Alter Brain Solutions.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
+
 ### Proyectos personales y como parte de cursos
 
 [Madereria](https://github.com/JS2202/MadereriaPV)
 ---
-Punto de venta para una madereria usando Python, Flask y Firestore como base de datos, desarrollado como parte de un curso para la Universidad.
+Punto de venta para una madereria desarrollado usando Python, Flask, Jinja y Firestore como base de datos, parte de un proyecto para la Universidad.
+[Link al repositorio](https://github.com/JS2202/MadereriaPV)
 ---
 
+[Pagina para vacunas](https://js2202.github.io/FrontendMissionLaunchX/Semana3/)
+---
+Pequenia pagina de vacunacion desarrollada como parte de los cursos frontend de LaunchX.
+[Link al repositorio](https://github.com/JS2202/MadereriaPV)
+---
 
+https://js2202.github.io/FrontendMissionLaunchX/Semana2/Files/
 
 ### Category Name 2
 
