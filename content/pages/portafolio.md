@@ -5,17 +5,21 @@ menu:
     name: "Portafolio"
 ---
 
+### Alter Brain Solutions.
+
 [App MisVecinos](https://appmisvecinos.com/)
 ---
 Herramienta para la gestion de fraccionamientos desarrollada en Android para Alter Brain Solutions.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
+### Proyectos personales
 
-[App MisVecinos](https://appmisvecinos.com/)
+[Madereria](https://github.com/JS2202/MadereriaPV)
 ---
-App desarrollada en Android para la gestion de fraccionamientos.
-![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
+Punto de venta para una madereria usando Python, Flask y Firestore como base de datos, desarrollado como parte de un curso para la Universidad.
 ---
+
+
 
 ### Category Name 2
 
