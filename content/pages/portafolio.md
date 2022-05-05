@@ -9,7 +9,7 @@ menu:
 
 [App MisVecinos](https://appmisvecinos.com/)
 ---
-Herramienta para la gestion de fraccionamientos desarrollada en Android para Alter Brain Solutions.
+App para Android desarrollada para Alter Brain Solutions, es una herramienta para la gestion de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
 
@@ -27,21 +27,8 @@ Pequenia pagina de vacunacion desarrollada como parte de los cursos frontend de 
 [Link al repositorio](https://github.com/JS2202/MadereriaPV)
 ---
 
-https://js2202.github.io/FrontendMissionLaunchX/Semana2/Files/
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[Pokedex](https://js2202.github.io/FrontendMissionLaunchX/Semana4/)
 ---
-
-
-
-
+Hecho como parte de los cursos para frontend de LaunchX, utiliza un pequenio Script que consulta datos sobre pokemones desde una [RESTful API](https://pokeapi.co/).
+[Link al repositorio](https://github.com/JS2202/MadereriaPV)
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
