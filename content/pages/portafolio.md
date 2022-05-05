@@ -10,7 +10,7 @@ menu:
 
 [App MisVecinos](https://appmisvecinos.com/)
 ---
-App para Android desarrollada para Alter Brain Solutions, es una herramienta para la gestion de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.
+App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestion de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
 ---
