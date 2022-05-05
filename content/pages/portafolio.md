@@ -1,11 +1,11 @@
 ---
-title: 'Bienvenido a mi portafolio de proyectos'
+title: 'Portafolio de proyectos'
 menu:
   main:
     name: "Portafolio"
 ---
 
-### [MisVecinosApp](https://appmisvecinos.com/)
+[App MisVecinos](https://appmisvecinos.com/)
 App desarrollada en Android para la gestion de fraccionamientos.
 ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 ---
