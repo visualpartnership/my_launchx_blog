@@ -12,9 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://js2202.github.io/my_launchx_blog/pages/about/</guid>
-      <description>Quien soy yo Hola, aquí vas a leer un poco sobre mi 🤩
+      <description>Quien soy yo Hola, aquí vas a leer un poco sobre mí 🤩
  Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingenieria de Software de la Universidad Autonoma del Estado de Mexico.
- Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi ultimo trabajo fue como desarrollador movil para Android en Alter Brain Solutions, ademas he realizado proyectos escolares por mi cuenta en diversos Frameworks, entre los que destacan Flask, Node.</description>
+ Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi último trabajo fue como desarrollador móvil para Android en Alter Brain Solutions, además he realizado diversos proyectos escolares por mi cuenta, como parte de actividades escolares, o que son parte de cursos, en diversos Frameworks, entre los que destacan Flask, Node.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://js2202.github.io/my_launchx_blog/pages/portafolio/</guid>
-      <description>Alter Brain Solutions.  App MisVecinos App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestion de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.   Proyectos personales, como parte de cursos y escolares  Madereria POS Punto de venta para una madereria desarrollado usando Python, Flask, Jinja y Firestore como base de datos, parte de un proyecto para la Universidad.</description>
+      <description>Alter Brain Solutions.  App MisVecinos App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestión de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.   Proyectos personales, como parte de cursos y escolares  Maderería POS Punto de venta para una maderería desarrollada usando Python, Flask, Jinja y Firestore como base de datos, parte de un proyecto para la Universidad.</description>
     </item>
     
   </channel>
