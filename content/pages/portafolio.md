@@ -27,20 +27,20 @@ Punto de venta para una madereria desarrollado usando Python, Flask, Jinja y Fir
 ---
 Pequenia pagina de vacunacion desarrollada como parte de los cursos frontend de LaunchX.
 ---
-[Link al repositorio](https://github.com/JS2202/MadereriaPV)
+[Link al repositorio](https://github.com/JS2202/FrontendMissionLaunchX/tree/main/Semana3)
 ---
 ---
 [Pokedex](https://js2202.github.io/FrontendMissionLaunchX/Semana4/)
 ---
 Hecho como parte de los cursos para frontend de LaunchX, utiliza un pequenio Script que consulta datos sobre pokemones desde una [RESTful API](https://pokeapi.co/).
 ---
-[Link al repositorio](https://github.com/JS2202/MadereriaPV)
+[Link al repositorio](https://github.com/JS2202/FrontendMissionLaunchX/tree/main/Semana4)
 ---
 ---
 [Pagina de pasteleria](https://625a323f37f5c331b8882412--sprightly-narwhal-61b6a2.netlify.app/#/)
 ---
 Una single page application sencilla realizada como parte de LaunchX,desarrollada con Vue.js, VueX y JavaScript.
 ---
-[Link al repositorio](https://github.com/JS2202/MadereriaPV)
+[Link al repositorio](https://github.com/JS2202/FrontendMissionLaunchX/tree/main/Semana5/LaunchX%20VueJS-VueX)
 ---
 ---
