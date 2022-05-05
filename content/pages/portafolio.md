@@ -6,18 +6,9 @@ menu:
 ---
 
 ### MisVecinos
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-![imagen](https://imagenes.elpais.com/resizer/bcO7qftyHcYnGWasUbyB0fMj_WY=/1960x1103/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/GXCNXMSQBJE5LCIC3ITWRGE75A.jpg)
-
+App desarrollada en Android para la gestion de fraccionamientos.
+![imagen](https://github.com/JS2202/my_launchx_blog/tree/master/static/images/missveci.jpg)
+[MisVecinosApp](https://appmisvecinos.com/)
 ---
 
 ### Category Name 2
