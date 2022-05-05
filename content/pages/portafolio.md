@@ -7,7 +7,7 @@ menu:
 
 ### MisVecinos
 App desarrollada en Android para la gestion de fraccionamientos.
-![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg =100x20)
+![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
 [MisVecinosApp](https://appmisvecinos.com/)
 ---
 
