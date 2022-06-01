@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <title>Launch X Bitácora de viaje. on Bitácora de viaje de Angelica Roy.</title>
+    <link>https://angelicaroy.github.io/my_launchx_blog/posts/</link>
+    <description>Recent content in Launch X Bitácora de viaje. on Bitácora de viaje de Angelica Roy.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://angelicaroy.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://angelicaroy.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://angelicaroy.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! voy a contante lo que he aprendido en este camino:
+ Python Html Css JS git y github UX/UI Herramientas para diseño web  </description>
+    </item>
+    
+    <item>
+      <title>La Cultura de un desarrollad@r de Software</title>
+      <link>https://angelicaroy.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelicaroy.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Para un desarrollador en Backend en NodeJS Valores:  Empatía Optimismo Humildad Gratitud Perseverancia Responsabilidad  Emociones:  Alegría Miedo Asombro Interés Seguridad  Sentimientos:  Interés Inspiración Gratitud  </description>
     </item>
     
   </channel>
