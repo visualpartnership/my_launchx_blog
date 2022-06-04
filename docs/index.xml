@@ -1,30 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <title>Hola!!!! on Mi Blog</title>
+    <link>https://js2202.github.io/my_launchx_blog/</link>
+    <description>Recent content in Hola!!!! on Mi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://js2202.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usando Git en la terminal de VSCode en Linux</title>
+      <link>https://js2202.github.io/my_launchx_blog/posts/post2/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://js2202.github.io/my_launchx_blog/posts/post2/</guid>
+      <description>Después de haber leído las referencias de el Onboarding y revisar el libro de Mastering Git, he logrado manejar los pull/request desde la terminal de VSCode de manera sencilla, sólo con el uso de los comandos git add ./, git commit -m &amp;ldquo;mensaje&amp;rdquo; y git push. El libro me parece bastante sencillo, y los ejemplos de uso de los comandos son bastante explicativos.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <link>https://js2202.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://js2202.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Espero poder aprender las bases de el uso de Git, el uso de los forks, aprender a usar los comandos de Git desde la terminal de Linux, aprender los conceptos básicos de desarrollo backend con Node.js y JavaScript.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>https://js2202.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
-      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+      <guid>https://js2202.github.io/my_launchx_blog/pages/about/</guid>
+      <description>Quien soy yo Hola, aquí vas a leer un poco sobre mí 🤩
+ Mi nombre es Jose Armando Lopez Alvarez, actualmente soy estudiante de Ingeniería de Software de la Universidad Autónoma del Estado de México.
+ Mis actividades favoritas son: programar, he programado en varios lenguajes como JAVA, JavaScript, Python, C. Mi último trabajo fue como desarrollador móvil para Android en Alter Brain Solutions, además he realizado diversos proyectos escolares por mi cuenta, como parte de actividades escolares, o que son parte de cursos, en diversos Frameworks, entre los que destacan Flask, Node.</description>
+    </item>
+    
+    <item>
+      <title>Portafolio de proyectos</title>
+      <link>https://js2202.github.io/my_launchx_blog/pages/portafolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://js2202.github.io/my_launchx_blog/pages/portafolio/</guid>
+      <description>Alter Brain Solutions.  App MisVecinos App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestión de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.   Proyectos personales, como parte de cursos y escolares  Maderería POS Punto de venta para una maderería desarrollada usando Python, Flask, Jinja y Firestore como base de datos, parte de un proyecto para la Universidad.</description>
     </item>
     
   </channel>

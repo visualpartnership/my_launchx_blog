@@ -1,10 +1,8 @@
 ---
-title: Launch X Bitácora de viaje
+title: Hola!!!!
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
-
-Te invito a conocer mis aprendizajes y leer mis experiencias.
-
+Hola ✌️  me llamo **Jose Armando Lopez Alvarez** y este es mi blog personal, en donde compartiré mi [portafolio de proyectos](https://js2202.github.io/my_launchx_blog/pages/portafolio/) en los que he participado, también te invito a leer mi [blog](https://js2202.github.io/my_launchx_blog/posts/), y vivir junto a mi mis aprendizajes y experiencias como desarrollador de software, si quieres saber un poco más de mí, te invito a dar click [aquí](https://js2202.github.io/my_launchx_blog/pages/about/).
 🚀
+
