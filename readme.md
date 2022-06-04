@@ -1,11 +1,12 @@
+# Bienvenidos 👋
+
 ![banner](https://user-images.githubusercontent.com/17634377/155042185-d8a46812-04aa-4534-88e6-cdfb8b3f02f6.png)
 
-## My Launch X Blog: Bitácora de Viaje 🚀
-
-#Bienvenidos 👋 
-
+# My Launch X Blog: Bitácora de Viaje 🚀
+ 
 Sean bienvenidos todas las personas que quieran aprender algo nuevo, en este repositorio se encontrara mi blog donde cuento mi experiencia en LaunchX y donde hablo un poco de mi.
 
+Espero que te guste mi contenido y te sientas libre de aprender o de contribuir.
 
 Así como también puedes crear tu **Workbook**:
 
