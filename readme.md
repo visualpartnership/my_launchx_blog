@@ -2,9 +2,10 @@
 
 ## My Launch X Blog: Bitácora de Viaje 🚀
 
-Hola explorer 👋 
+#Bienvenidos 👋 
 
-Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
+Sean bienvenidos todas las personas que quieran aprender algo nuevo, en este repositorio se encontrara mi blog donde cuento mi experiencia en LaunchX y donde hablo un poco de mi.
+
 
 Así como también puedes crear tu **Workbook**:
 
