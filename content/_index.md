@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje
-description: La mejor aventura de aprendizaje que tenido en mi vida.
+description: La mejor aventura de aprendizaje que e tenido en mi vida.
 ---
 
 Hola ✌️  soy el explorer Gustavo y este es mi blog personal donde compartiré mis aventuras de Launch X.
