@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JAEM</title>
-    <link>https://J0SE-ESC0BAR.github.io/my_blog/categories/</link>
+    <link>https://J0SE-ESC0BAR.github.io/categories/</link>
     <description>Recent content in Categories on JAEM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://J0SE-ESC0BAR.github.io/my_blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://J0SE-ESC0BAR.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

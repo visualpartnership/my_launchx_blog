@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/posts/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/posts/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_2/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/posts/post_2/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_1/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/posts/post_1/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/posts/intro/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/posts/intro/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/pages/about/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/pages/about/</loc>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/categories/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/categories/</loc>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/pages/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/pages/</loc>
   </url><url>
-    <loc>https://J0SE-ESC0BAR.github.io/my_blog/tags/</loc>
+    <loc>https://J0SE-ESC0BAR.github.io/tags/</loc>
   </url>
 </urlset>
