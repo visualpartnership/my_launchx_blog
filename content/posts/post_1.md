@@ -11,11 +11,11 @@ Quiero comartir con ustedes todo lo que e aprendido hasta hoy en Lauch-X
 - HTML
 - CSS
 - JavaScript
-- Vue
-- Angular (solo lo basico)
+- Vue(basico)
 # Back-end
 - Git
 - GitHub
 - GitHub Pages
 - Hugo
 - Markdown (basico)
+- node.js

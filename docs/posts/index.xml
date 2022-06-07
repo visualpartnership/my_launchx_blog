@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje de José Escobar</title>
-    <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje de José Escobar</description>
+    <title>Mis Posts on JAEM</title>
+    <link>https://J0SE-ESC0BAR.github.io/my_blog/posts/</link>
+    <description>Recent content in Mis Posts on JAEM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://J0SE-ESC0BAR.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Hub</title>
-      <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_2/</link>
+      <link>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_2/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_2/</guid>
+      <guid>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_2/</guid>
       <description>Porque quiero aprender mas sobre git
 Para programar mejor Al tener un sistema de verciones, me ayudara para llevar un control y control de los programas.
 Que espero aprender Quiero aprender mas sobre las breach, los pull request y como se trabaja en equipo con git y github.</description>
@@ -20,20 +20,20 @@ Que espero aprender Quiero aprender mas sobre las breach, los pull request y com
     
     <item>
       <title>Mi aprendisaje en Launch X</title>
-      <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_1/</link>
+      <link>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_1/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/post_1/</guid>
+      <guid>https://J0SE-ESC0BAR.github.io/my_blog/posts/post_1/</guid>
       <description>Quiero comartir con ustedes todo lo que e aprendido hasta hoy en Lauch-X
-Introducción  Python Logica de Programacion  Fron-end  HTML CSS JavaScript Vue Angular (solo lo basico)  Back-end  Git GitHub GitHub Pages Hugo Markdown (basico)  </description>
+Introducción  Python Logica de Programacion  Fron-end  HTML CSS JavaScript Vue(basico)  Back-end  Git GitHub GitHub Pages Hugo Markdown (basico) node.js  </description>
     </item>
     
     <item>
       <title>La Cultura de un desarrollador de Software</title>
-      <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/intro/</link>
+      <link>https://J0SE-ESC0BAR.github.io/my_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://J0SE-ESC0BAR.github.io/my_launchx_blog/posts/intro/</guid>
+      <guid>https://J0SE-ESC0BAR.github.io/my_blog/posts/intro/</guid>
       <description>Hola! 😊
 Para mi la cultura de un profecional del desarrollo de software se basa en lo siguiente:
  Respeto Confianza Honestidad Dedicación  Esto es muy importante para mi.</description>

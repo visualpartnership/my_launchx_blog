@@ -1,6 +1,6 @@
-baseURL = "https://J0SE-ESC0BAR.github.io/my_launchx_blog/"
+baseURL = "https://J0SE-ESC0BAR.github.io/"
 languageCode = 'es'
-title = "Bitácora de Viaje de José Escobar"
+title = "JAEM"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -18,4 +18,18 @@ paginate = 3
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addFrame = true
-  addDot = true
+  addDot = false
+# agregar mas entradas a la cabezera
+#[menu]
+#  [[menu.main]]
+#    identifier = "contacto1"
+#    name = "Contacto1"
+#    title = "contacto1"
+#    url = "/contacto1/"
+#    weight = 0
+#  [[menu.main]]
+#    identifier = "contacto2"
+#    name = "Contacto2"
+#    title = "contacto2"
+#    url = "/contacto2/"
+#    weight = 0

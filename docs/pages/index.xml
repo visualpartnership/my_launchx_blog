@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Bitácora de Viaje de José Escobar</title>
-    <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/pages/</link>
-    <description>Recent content in Pages on Bitácora de Viaje de José Escobar</description>
+    <title>Pages on JAEM</title>
+    <link>https://J0SE-ESC0BAR.github.io/my_blog/pages/</link>
+    <description>Recent content in Pages on JAEM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://J0SE-ESC0BAR.github.io/my_launchx_blog/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://J0SE-ESC0BAR.github.io/my_blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>https://J0SE-ESC0BAR.github.io/my_launchx_blog/pages/about/</link>
+      <title>About</title>
+      <link>https://J0SE-ESC0BAR.github.io/my_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://J0SE-ESC0BAR.github.io/my_launchx_blog/pages/about/</guid>
+      <guid>https://J0SE-ESC0BAR.github.io/my_blog/pages/about/</guid>
       <description>Who am I Information about me.
  I am José Alfonso Escobar, I was born in Morelia, Michoacán, when I was a child I came with my family to El Salvador, I am studying systems engineering at the university.
  I really like programming and I want to learn more about web development.
